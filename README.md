@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaborschulz
 - 👀 I’m interested in Python, Django, cloud tech and data science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and data science
 - 💞️ I’m looking to collaborate on cloud tools
 
 <!---
